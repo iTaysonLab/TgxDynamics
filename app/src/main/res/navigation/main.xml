@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    app:startDestination="@id/generatorFragment">
+
+    <fragment
+        android:id="@+id/generatorFragment"
+        android:name="bruhcollective.itaysonlab.tgxthemegenerator.ui.GeneratorFragment"
+        android:label="@string/app_name" />
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="bruhcollective.itaysonlab.tgxthemegenerator.ui.AboutFragment"
+        android:label="@string/about" />
+</navigation>

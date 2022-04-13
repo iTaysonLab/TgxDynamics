@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_round_build_24"
+        android:id="@+id/generatorFragment"
+        android:title="@string/generator" />
+    <item
+        android:icon="@drawable/ic_round_info_24"
+        android:id="@+id/aboutFragment"
+        android:title="@string/about" />
+</menu>

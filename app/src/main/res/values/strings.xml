@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TgxDynamics</string>
+    <string name="generator">Generate Theme</string>
+    <string name="about">About</string>
+    <string name="generator_info">\"Share\" dialog will be opened with the generated theme. Choose Telegram X and save it to Saved Messages or other place.</string>
+    <string name="about_info">This application is not endorsed or made by Telegram.\n\nPlease note that this app is in alpha stage - so bugs can occur. Be careful.</string>
+    <string name="about_author">Created by iTaysonLab</string>
+    <string name="about_sources">View Source Code</string>
+    <string name="about_channel">Join Telegram Channel</string>
+</resources>
